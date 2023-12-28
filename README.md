@@ -1,2 +1,2 @@
 # ProjekMagangAninda
-ini hanya latihan repository
+ini hanya latihan yang sewaktu waktu bisa hilang
